@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Live Website:  
+Live Website
 https://ajuvaitha.github.io/Personal_budget_tracker/
 
 ---
